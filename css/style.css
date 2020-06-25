@@ -16,7 +16,8 @@ header{
   width: 100%;
   min-width: 600px;
   height: 6rem;
-  background-color: #333333;
+  background-color: #333;
+  box-shadow: 0 3px 0.5rem rgba(0,0,0,.4);
 }
 
 header h1{
@@ -29,7 +30,7 @@ header h1{
 
 nav {
   position: absolute;
-  top: 2rem;
+  top: 2.5rem;
   right: 3rem;
 }
 
